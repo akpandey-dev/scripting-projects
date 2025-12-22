@@ -1,10 +1,11 @@
-# python_based_projects
+# Python Projects
 A hub of my Python creations — tools, experiments, mini-apps, and random scripts built while exploring everything from logic to automation. Organized chaos, powered by Python.
 
 Current project count:
 
-    Password_Strength_analyzer  -> Password_strength_analyzer.py
-    Turtle_designer             -> Turtle_Designer.py
+    password-strength-analyzer  -> password-strength-analyzer.py
+    turtle-designer             -> turtle-designer.py
+    calculator                  -> calculator.py
 
 ## Project Structure:
 
