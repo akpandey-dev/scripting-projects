@@ -6,6 +6,7 @@ Current project count:
     password-strength-analyzer  -> password-strength-analyzer.py
     turtle-designer             -> turtle-designer.py
     calculator                  -> calculator.py
+    password-entrophy-analyzer  -> password-entrophy-analyzer.py
 
 ## Project Structure:
 
