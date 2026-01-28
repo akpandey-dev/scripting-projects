@@ -18,6 +18,8 @@ This is not magic. It’s math.
   - Digits
   - Symbols
   - Whitespace
+- Displays results in a **colorized terminal UI**
+- Compares multiple passwords side-by-side
 
 ---
 
@@ -39,10 +41,12 @@ This tool makes that concept tangible instead of abstract.
 ## Requirements
 
 - Python 3.7+
+- `colorama` library
 
-No external libraries required.
-
----
+Install dependencies:
+```bash
+pip install colorama
+```
 
 ## How to Run
 
