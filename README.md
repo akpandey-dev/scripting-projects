@@ -25,12 +25,13 @@ All projects are organized under the `python/` folder. Each project has its own 
 
 
 
-### Current project count:
+## Current project count:
   *  calculator                  -> calculator.py
   *  elements-json-generator     -> elements-json-generator.py
   *  password-entrophy-analyzer  -> password-entrophy-analyzer.py
   *  password-strength-analyzer  -> password-strength-analyzer.py
   *  turtle-designer             -> turtle-designer.py
+  *  click-the-box               -> click-the-box.py
 
 ---
 
