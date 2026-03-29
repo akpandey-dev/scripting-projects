@@ -39,7 +39,7 @@ All projects are organized under the `python/` folder. Each project has its own 
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/akp-labs/python-projects.git
+   git clone https://github.com/akpandey-dev/python-projects.git
    ```
 2. Navigate to the folder of your interest.
 3. Run the file directly in the suitable environment(Python interpreter).
