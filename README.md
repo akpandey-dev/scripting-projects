@@ -1,37 +1,37 @@
-# Python Projects
+# Scripting Projects
 
+A collection of projects, tools, experiments, mini-apps, and utilities built using scripting and runtime-oriented languages such as Python, JavaScript, TypeScript, Node.js, and related ecosystems.
 
-A hub of my Python creations — tools, experiments, mini-apps, and random scripts built while exploring everything from logic to automation. Organized chaos, powered by Python and driven by curiosity and hands-on experimentation.
+This repository serves as a workspace for rapid experimentation, automation, tooling, logic exploration, lightweight applications, and practical programming concepts. Projects are intentionally kept modular and focused, allowing ideas to be explored quickly without unnecessary abstraction or overengineering.
 
-This repository focuses on writing clear, functional Python code while exploring problem-solving, data handling, scripting, and basic tooling. Projects are intentionally small and focused, allowing ideas to be tested quickly without unnecessary complexity.
-
-Serving both as a learning archive and an experimentation space, this repo avoids overengineering and instead emphasizes understanding how Python behaves in real scenarios.
-
----
+Rather than acting as a dump of random scripts, this repository is organized as a categorized scripting ecosystem containing standalone projects grouped by language and purpose.
 
 ## Goals
 
-- Strengthen core Python fundamentals and syntax
-- Practice problem-solving, logic building, and algorithmic thinking
-- Explore scripting, automation, and data handling concepts
-- Build small, self-contained Python utilities and tools
-- Maintain readable, minimal, and purpose-driven Python code
+- Explore scripting and runtime-oriented programming ecosystems
+- Build practical tools, utilities, and automation workflows
+- Strengthen problem-solving and implementation skills
+- Experiment with language-specific features and runtime behavior
+- Maintain clean, readable, and purpose-driven codebases
+- Rapidly prototype ideas with minimal overhead
+
+## Repository Structure
+
+Projects are organized by language, with each language containing its own independent projects and experiments.
+
+Each project typically contains:
+- Source code
+- Project-specific README/documentation
+- Assets or supporting files (if required)
 
 ---
 
-## Project Structure
+## Current Languages
 
-All projects are organized under the `python/` folder. Each project has its own subdirectory with source code and documentation.
+- Python
 
 
-
-## Current project count:
-  *  calculator                  -> calculator.py
-  *  elements-json-generator     -> elements-json-generator.py
-  *  password-entrophy-analyzer  -> password-entrophy-analyzer.py
-  *  password-strength-analyzer  -> password-strength-analyzer.py
-  *  turtle-designer             -> turtle-designer.py
-  *  click-the-box               -> click-the-box.py
+Additional scripting ecosystems may be added over time.
 
 ---
 
@@ -39,16 +39,34 @@ All projects are organized under the `python/` folder. Each project has its own 
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/akpandey-dev/python-projects.git
+   git clone https://github.com/akpandey-dev/scripting-projects.git
    ```
-2. Navigate to the folder of your interest.
-3. Run the file directly in the suitable environment(Python interpreter).
+
+2. Navigate to the language/project directory of interest.
+
+3. Follow the instructions provided in the project's local README file.
+
+4. Run the project using the appropriate runtime or interpreter.
+
+---
+
+## Philosophy
+
+This repository prioritizes:
+- experimentation over perfection
+- practical implementation over unnecessary complexity
+- understanding systems through hands-on development
+- iterative learning through real projects
+
+Projects may range from tiny utilities to larger scripting-based tools depending on scope and purpose.
 
 ---
 
 ## License
 
-This repository is licensed under the MIT License. See the LICENSE
- file for details.
+This repository is licensed under the MIT License.  
+See the `LICENSE` file for details.
+
+
 
 
