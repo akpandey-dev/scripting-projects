@@ -43,5 +43,5 @@ pip install pygame
 ## How to Run
 
 ```bash
-python main.py
+python click-the-box.py
 ```
