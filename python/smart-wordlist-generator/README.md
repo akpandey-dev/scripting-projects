@@ -1,68 +1,54 @@
-# Smart Wordlist Generator
+# Smart Worslist Generator
 
-**Smart Wordlist Generator** is a simple Python tool that generates wordlist variations from a single word.
-It creates combinations using:
-
-* uppercase and lowercase styles
-* leetspeak replacements
-* symbols
-* number suffixes
-
-The generated results are saved into a text file automatically.
+**Smart Worslidt Generator** is a Python program that can generate big wordlist on the basis of words given. It can be used as a small tool to get brute force wordlist. It is highly portable, lightweight, and useful, to generate wordlists on the fly.
 
 ---
+
+
 
 ## Requirements
 
-Make sure you have:
+Make sure to meets the following requirements:
 
-* Python installed
-* The correct file structure
-
----
-
-## Folder Structure
-
-Your folder should look like this:
-
-```text
-/--smart-wordlist-generator.py
- |-smartlist.txt
-```
-
----
-
-## How To Use
-
-Run the script:
-
-```bash
-py smart-wordlist-generator.py
-```
-
-Enter a word when asked:
-
-```text
-Word: hello
-```
-
-The generated wordlist will be saved in:
-
-```text
-smartlist.txt
-```
+- Python Installed
+- Correct folder structure
 
 ---
 
 
+## How to use
 
-## Disclaimer
+Follow the steps:
 
-Use this tool ethically and responsibly.
-You are fully responsible for how you use this script.
+- Clone this repository
+- Extract this folder
+- Confirm to make your setup look like this:
+    ```
+    /--smart-wordlist-generator.py
+     |-history.json
+     |-smartlist.txt
+    ```
+- For help and usage instruction, run:
+    ```bash
+    py smart-wordlist-generator.py -h
+    ```
+- Using the CLI, run the `smart-wordlist-generator.py` script like:
+    ```bash
+    py smart-wordlist-generator.py [words...]
+    ```
+- You can write more than one word as parameters separated by spaces
+- Your result will be saved in the `smartlist.txt` file and you will get a status report on the console
+- You can visit `history.json` to view your usage history
+- You can do the same process as above multiple times
 
 ---
 
-## Support
+## Caution & Disclaimer
 
-If you found this project useful, consider starring the repository.
+Use this script ethically and responsibly. Any unethical usage is not the responsibility of *Author* and *Publisher* and *Committer*. You are solely responsible for the usage of the script.
+
+---
+
+## Rate us
+
+If you found this useful, don't forget to star the repo
